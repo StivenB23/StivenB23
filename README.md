@@ -30,7 +30,6 @@ I am a young man who likes this great world of programming, whose motivation is 
 ![icon-java](https://user-images.githubusercontent.com/100744204/166332022-605bf9f4-e8b5-40df-8dc5-d0f06c6661d3.png)
 ![icon-python](https://user-images.githubusercontent.com/100744204/166332214-79186573-17c1-4138-96e1-1be3b0c6cdca.png)
 ![icon-php](https://user-images.githubusercontent.com/100744204/166332900-63305394-b690-4af4-b37d-f73961822a72.png)
-![icon-typescript](https://user-images.githubusercontent.com/100744204/166333267-fad3a5db-edae-469e-b1ad-e91baf8eeb36.png)
 
 ## Frameworks and Libraries
 
