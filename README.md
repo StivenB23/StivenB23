@@ -16,6 +16,9 @@ I am a young man who likes this great world of programming, whose motivation is 
 
 🤝 Fun fact, I like to teach programming to anyone who wants to learn.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StivenB23&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenB23&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tools Web
 
 ![icon-figma](https://user-images.githubusercontent.com/100744204/166333664-2256689a-9e4e-4924-8f10-96b5f94dc9bc.png)
@@ -46,5 +49,5 @@ I am a young man who likes this great world of programming, whose motivation is 
 ![icon-mysql](https://user-images.githubusercontent.com/100744204/166337002-9135bba1-aee9-480c-b64b-18a053eb070c.png)
 ![icon-sqlServer](https://user-images.githubusercontent.com/100744204/166337352-b1d4fedf-03d8-4a17-9d38-e84fa464ba76.png)
 
-
+![terminal (1)](https://user-images.githubusercontent.com/100744204/186563225-5074716a-5af3-4740-94a5-c3cb8d1ac4fb.gif)
 
