@@ -19,35 +19,8 @@ I am a young man who likes this great world of programming, whose motivation is 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StivenB23&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenB23&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tools Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,py,ts,bootstrap,ps,figma,vue,angular,react,sass,vite,laravel,django,spring,nodejs,prisma,express,hibernate,flask,mysql,sqlite,postgres,mongodb,firebase,supabase,pug,maven,git,github,idea,bash,powershell,md,vscode)](https://skillicons.dev)
 
-![icon-figma](https://user-images.githubusercontent.com/100744204/166333664-2256689a-9e4e-4924-8f10-96b5f94dc9bc.png)
-![icon-notion](https://user-images.githubusercontent.com/100744204/166334106-14a8cf46-9916-41a0-8088-52dcfd5daa9d.png)
-![icon-git](https://user-images.githubusercontent.com/100744204/166334114-ba01e715-91fd-4077-936f-2153d175c463.png)
-
-## Lenguages
-
-![icon-html](https://user-images.githubusercontent.com/100744204/166330508-61df6ff9-fe44-4a54-b5f0-c05a2a9a71a5.png)
-![icon-css](https://user-images.githubusercontent.com/100744204/166330821-e8901eba-a084-42c7-a43d-a9279fc3ce76.png)
-![icon-js](https://user-images.githubusercontent.com/100744204/166331643-9ee823f6-e56e-4097-b077-7441e432eed2.png)
-![icon-java](https://user-images.githubusercontent.com/100744204/166332022-605bf9f4-e8b5-40df-8dc5-d0f06c6661d3.png)
-![icon-python](https://user-images.githubusercontent.com/100744204/166332214-79186573-17c1-4138-96e1-1be3b0c6cdca.png)
-![icon-php](https://user-images.githubusercontent.com/100744204/166332900-63305394-b690-4af4-b37d-f73961822a72.png)
-
-## Frameworks and Libraries
-
-![icon-angular](https://user-images.githubusercontent.com/100744204/166335077-afefc3bb-d63e-4b76-8a03-55d94728bc7e.png)
-![icon-react](https://user-images.githubusercontent.com/100744204/166334640-ac9c430f-cc15-4f2e-9bc4-bc50facdb8b7.png)
-![icon-bulma](https://user-images.githubusercontent.com/100744204/166335598-b04f5d03-0fb2-49c9-9192-e49b68c1d686.png)
-![icon-bootstrap](https://user-images.githubusercontent.com/100744204/166335643-3bc320e7-6d8b-490d-9eaf-91f26543918e.png)
-![icon-laravel](https://user-images.githubusercontent.com/100744204/166335998-3b89ff8a-fd71-4a86-9c02-164464c619d0.png)
-![icon-spring](https://user-images.githubusercontent.com/100744204/166336232-1fea0bbd-3024-471e-9077-20dfb65a16ba.png)
-![icon-Jquery](https://user-images.githubusercontent.com/100744204/166336550-9de95832-189e-488c-88da-4a3cfc27c100.png)
-![icon-django](https://user-images.githubusercontent.com/100744204/166337892-ecf53751-ca2f-40b4-8cb2-e0c075853eaf.png)
-## DataBases
-
-![icon-mysql](https://user-images.githubusercontent.com/100744204/166337002-9135bba1-aee9-480c-b64b-18a053eb070c.png)
-![icon-sqlServer](https://user-images.githubusercontent.com/100744204/166337352-b1d4fedf-03d8-4a17-9d38-e84fa464ba76.png)
 
 ![terminal (1)](https://user-images.githubusercontent.com/100744204/186563225-5074716a-5af3-4740-94a5-c3cb8d1ac4fb.gif)
 
